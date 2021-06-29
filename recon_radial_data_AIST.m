@@ -1,8 +1,10 @@
-%addpath('fessler\irt')
-%addpath('fessler\irt\systems')
-run('fessler\irt\setup.m')
+%addpath('fessler\irt') Hi Prof. Simon, Tess
 
-rawdatfile = 'E:\ResearchMRI\data\meas_MID06716_FID05964_SAG_MPnRAGE_RADIAL_GOLDEN.dat';
+addpath('fessler/irt')
+run('fessler/irt/setup.m')
+
+%rawdatfile = 'E:\ResearchMRI\data\meas_MID06716_FID05964_SAG_MPnRAGE_RADIAL_GOLDEN.dat';
+rawdatfile = '../data/meas_MID06716_FID05964_SAG_MPnRAGE_RADIAL_GOLDEN.dat';
 
 k1 = mapVBVD_v2(rawdatfile);
 %k1 = mapVBVD(rawdatfile);

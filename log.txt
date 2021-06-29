@@ -1,0 +1,230 @@
+The variable "irtdir" is not set, so trying default, assuming
+that you launched matlab from the irt install directory.
+You may need to edit setup.m or adjust your path otherwise.
+Assuming you installed irt in directory "/home/pengdadi/ResearchMRI/mri-alg/fessler/irt".
+Path setup for irt appears to have succeeded.
+Software version: VD (!?)
+Scan 1/1, read all mdhs:
+      1 % read in    0 s; estimated time left:    3 s 
+      2 % read in    0 s; estimated time left:    3 s 
+      3 % read in    0 s; estimated time left:    3 s 
+      4 % read in    0 s; estimated time left:    3 s 
+      5 % read in    0 s; estimated time left:    3 s 
+      6 % read in    0 s; estimated time left:    3 s 
+      7 % read in    0 s; estimated time left:    3 s 
+      8 % read in    0 s; estimated time left:    3 s 
+      9 % read in    0 s; estimated time left:    3 s 
+     10 % read in    0 s; estimated time left:    3 s 
+     11 % read in    0 s; estimated time left:    3 s 
+     12 % read in    0 s; estimated time left:    3 s 
+     13 % read in    0 s; estimated time left:    3 s 
+     14 % read in    0 s; estimated time left:    3 s 
+     15 % read in    0 s; estimated time left:    3 s 
+     16 % read in    0 s; estimated time left:    2 s 
+     17 % read in    1 s; estimated time left:    2 s 
+     18 % read in    1 s; estimated time left:    2 s 
+     19 % read in    1 s; estimated time left:    2 s 
+     20 % read in    1 s; estimated time left:    2 s 
+     21 % read in    1 s; estimated time left:    2 s 
+     22 % read in    1 s; estimated time left:    2 s 
+     23 % read in    1 s; estimated time left:    2 s 
+     24 % read in    1 s; estimated time left:    2 s 
+     25 % read in    1 s; estimated time left:    2 s 
+     26 % read in    1 s; estimated time left:    2 s 
+     27 % read in    1 s; estimated time left:    2 s 
+     28 % read in    1 s; estimated time left:    2 s 
+     29 % read in    1 s; estimated time left:    2 s 
+     30 % read in    1 s; estimated time left:    2 s 
+     31 % read in    1 s; estimated time left:    2 s 
+     32 % read in    1 s; estimated time left:    2 s 
+     33 % read in    1 s; estimated time left:    2 s 
+     34 % read in    1 s; estimated time left:    2 s 
+     35 % read in    1 s; estimated time left:    2 s 
+     36 % read in    1 s; estimated time left:    2 s 
+     37 % read in    1 s; estimated time left:    2 s 
+     38 % read in    1 s; estimated time left:    2 s 
+     39 % read in    1 s; estimated time left:    2 s 
+     40 % read in    1 s; estimated time left:    2 s 
+     41 % read in    1 s; estimated time left:    2 s 
+     42 % read in    1 s; estimated time left:    2 s 
+     43 % read in    1 s; estimated time left:    2 s 
+     44 % read in    1 s; estimated time left:    2 s 
+     45 % read in    1 s; estimated time left:    2 s 
+     46 % read in    1 s; estimated time left:    2 s 
+     47 % read in    1 s; estimated time left:    2 s 
+     48 % read in    1 s; estimated time left:    2 s 
+     49 % read in    1 s; estimated time left:    1 s 
+     50 % read in    1 s; estimated time left:    1 s 
+     51 % read in    1 s; estimated time left:    1 s 
+     52 % read in    2 s; estimated time left:    1 s 
+     53 % read in    2 s; estimated time left:    1 s 
+     54 % read in    2 s; estimated time left:    1 s 
+     55 % read in    2 s; estimated time left:    1 s 
+     56 % read in    2 s; estimated time left:    1 s 
+     57 % read in    2 s; estimated time left:    1 s 
+     58 % read in    2 s; estimated time left:    1 s 
+     59 % read in    2 s; estimated time left:    1 s 
+     60 % read in    2 s; estimated time left:    1 s 
+     61 % read in    2 s; estimated time left:    1 s 
+     62 % read in    2 s; estimated time left:    1 s 
+     63 % read in    2 s; estimated time left:    1 s 
+     64 % read in    2 s; estimated time left:    1 s 
+     65 % read in    2 s; estimated time left:    1 s 
+     66 % read in    2 s; estimated time left:    1 s 
+     67 % read in    2 s; estimated time left:    1 s 
+     68 % read in    2 s; estimated time left:    1 s 
+     69 % read in    2 s; estimated time left:    1 s 
+     70 % read in    2 s; estimated time left:    1 s 
+     71 % read in    2 s; estimated time left:    1 s 
+     72 % read in    2 s; estimated time left:    1 s 
+     73 % read in    2 s; estimated time left:    1 s 
+     74 % read in    2 s; estimated time left:    1 s 
+     75 % read in    2 s; estimated time left:    1 s 
+     76 % read in    2 s; estimated time left:    1 s 
+     77 % read in    2 s; estimated time left:    1 s 
+     78 % read in    2 s; estimated time left:    1 s 
+     79 % read in    2 s; estimated time left:    1 s 
+     80 % read in    2 s; estimated time left:    1 s 
+     81 % read in    2 s; estimated time left:    1 s 
+     82 % read in    2 s; estimated time left:    1 s 
+     83 % read in    2 s; estimated time left:    1 s 
+     84 % read in    2 s; estimated time left:    0 s 
+     85 % read in    3 s; estimated time left:    0 s 
+     86 % read in    3 s; estimated time left:    0 s 
+     87 % read in    3 s; estimated time left:    0 s 
+     88 % read in    3 s; estimated time left:    0 s 
+     89 % read in    3 s; estimated time left:    0 s 
+     90 % read in    3 s; estimated time left:    0 s 
+     91 % read in    3 s; estimated time left:    0 s 
+     92 % read in    3 s; estimated time left:    0 s 
+     93 % read in    3 s; estimated time left:    0 s 
+     94 % read in    3 s; estimated time left:    0 s 
+     95 % read in    3 s; estimated time left:    0 s 
+     96 % read in    3 s; estimated time left:    0 s 
+     97 % read in    3 s; estimated time left:    0 s 
+     98 % read in    3 s; estimated time left:    0 s 
+     99 % read in    3 s; estimated time left:    0 s 
+    100 % read in    3 s; estimated time left:    0 s 
+          parse mdhs... done. (0.117772 seconds)
+Warn: fatrix2_setup_dim 83: 1d odim full omask, >1d idim: transpose may not work
+nufft_init 271: Needs at least 17.7419 Gbyte RAM
+Iteration 1: error = 169252.60303
+Iteration 2: error = 0.43624
+Iteration 3: error = 0.23591
+Iteration 4: error = 0.15240
+Iteration 5: error = 0.12780
+Iteration 6: error = 0.12193
+Iteration 7: error = 0.11961
+Iteration 8: error = 0.11837
+Iteration 9: error = 0.11750
+Iteration 10: error = 0.11704
+Iteration 11: error = 0.11685
+Iteration 12: error = 0.11676
+Iteration 13: error = 0.11674
+Iteration 14: error = 0.11676
+Iteration 15: error = 0.11680
+Iteration 16: error = 0.11685
+Iteration 17: error = 0.11691
+Iteration 18: error = 0.11706
+Iteration 19: error = 0.11736
+Iteration 20: error = 0.11764
+Iteration 21: error = 0.11790
+Iteration 22: error = 0.11814
+Iteration 23: error = 0.11836
+Iteration 24: error = 0.11856
+Iteration 25: error = 0.11873
+Iteration 26: error = 0.11889
+Iteration 27: error = 0.11904
+Iteration 28: error = 0.11917
+Iteration 29: error = 0.11928
+Iteration 30: error = 0.11938
+Iteration 31: error = 0.11948
+Iteration 32: error = 0.11956
+Iteration 33: error = 0.11963
+Iteration 34: error = 0.11970
+Iteration 35: error = 0.11976
+Iteration 36: error = 0.11981
+Iteration 37: error = 0.11986
+Iteration 38: error = 0.11990
+Iteration 39: error = 0.11994
+Iteration 40: error = 0.11997
+Iteration 41: error = 0.12000
+Iteration 42: error = 0.12005
+Iteration 43: error = 0.12011
+Iteration 44: error = 0.12016
+Iteration 45: error = 0.12021
+Iteration 46: error = 0.12025
+Iteration 47: error = 0.12029
+Iteration 48: error = 0.12033
+Iteration 49: error = 0.12036
+Iteration 50: error = 0.12040
+Iteration 51: error = 0.12042
+Iteration 52: error = 0.12045
+Iteration 53: error = 0.12047
+Iteration 54: error = 0.12050
+Iteration 55: error = 0.12052
+Iteration 56: error = 0.12053
+Iteration 57: error = 0.12055
+Iteration 58: error = 0.12057
+Iteration 59: error = 0.12058
+Iteration 60: error = 0.12060
+Iteration 61: error = 0.12061
+Iteration 62: error = 0.12062
+Iteration 63: error = 0.12063
+Iteration 64: error = 0.12064
+Iteration 65: error = 0.12065
+Iteration 66: error = 0.12066
+Iteration 67: error = 0.12066
+Iteration 68: error = 0.12067
+Iteration 69: error = 0.12068
+Iteration 70: error = 0.12069
+Iteration 71: error = 0.12069
+Iteration 72: error = 0.12070
+Iteration 73: error = 0.12070
+Iteration 74: error = 0.12071
+Iteration 75: error = 0.12071
+Iteration 76: error = 0.12072
+Iteration 77: error = 0.12072
+Iteration 78: error = 0.12072
+Iteration 79: error = 0.12073
+Iteration 80: error = 0.12073
+Iteration 81: error = 0.12073
+Iteration 82: error = 0.12074
+Iteration 83: error = 0.12074
+Iteration 84: error = 0.12074
+Iteration 85: error = 0.12075
+Iteration 86: error = 0.12075
+Iteration 87: error = 0.12075
+Iteration 88: error = 0.12075
+Iteration 89: error = 0.12076
+Iteration 90: error = 0.12076
+Iteration 91: error = 0.12076
+Iteration 92: error = 0.12076
+Iteration 93: error = 0.12076
+Iteration 94: error = 0.12077
+Iteration 95: error = 0.12077
+Iteration 96: error = 0.12077
+Iteration 97: error = 0.12077
+Iteration 98: error = 0.12077
+Iteration 99: error = 0.12078
+Iteration 100: error = 0.12078
+Reconstructing channel 1 of 20...
+Reconstructing channel 2 of 20...
+Reconstructing channel 3 of 20...
+Reconstructing channel 4 of 20...
+Reconstructing channel 5 of 20...
+Reconstructing channel 6 of 20...
+Reconstructing channel 7 of 20...
+Reconstructing channel 8 of 20...
+Reconstructing channel 9 of 20...
+Reconstructing channel 10 of 20...
+Reconstructing channel 11 of 20...
+Reconstructing channel 12 of 20...
+Reconstructing channel 13 of 20...
+Reconstructing channel 14 of 20...
+Reconstructing channel 15 of 20...
+Reconstructing channel 16 of 20...
+Reconstructing channel 17 of 20...
+Reconstructing channel 18 of 20...
+Reconstructing channel 19 of 20...
+Reconstructing channel 20 of 20...
